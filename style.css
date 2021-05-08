@@ -1,0 +1,24 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    text-align: center;
+}
+hr{
+    color: black;
+    size: 5px;
+}
+#login{
+    text-align: center;
+}
+::placeholder{
+    background-color:lightgreen;
+    border-radius: 1px;
+}
+#buttonenter{
+    border-radius: 5px;
+    background-color: lightgreen;
+}
+text{
+    color: black;
+}
